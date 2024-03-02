@@ -1,0 +1,32 @@
+[
+    {
+        "id": 0,
+        "productName": "fried chicken",
+        "price": "44",
+        "description": "lorem ipsum"
+    },
+    {
+        "id": 1,
+        "productName": "burger",
+        "price": "61.50",
+        "description": "lorem ipsum"
+    },
+    {
+        "id": 2,
+        "productName": "chips",
+        "price": "5",
+        "description": "lorem ipsum"
+    },
+    {
+        "id": 3,
+        "productName": "soda drinks",
+        "price": "10",
+        "description": "lorem ipsum"
+    },
+    {
+        "id": 4,
+        "productName": "pizza",
+        "price": "5",
+        "description": "lorem ipsum"
+    }
+]
